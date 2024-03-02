@@ -1,0 +1,14 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Useful algorithms for future use",
+  "scripts": {
+    "test": "jest -o",
+    "watch": "jest --watch"
+  },
+  "author": "Delano Francis",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
